@@ -1,6 +1,6 @@
 {
-    "name": "fluttter_ui_utils",
-    "short_name": "fluttter_ui_utils",
+    "name": "flutter_ui_utils",
+    "short_name": "flutter_ui_utils",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
