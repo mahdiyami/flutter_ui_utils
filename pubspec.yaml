@@ -36,7 +36,15 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   injectable: ^2.4.4
-
+  flutter_svg: ^1.1.0
+  carousel_slider: ^4.2.1
+  infinite_scroll_pagination: ^4.0.0
+  flutter_cache_manager: ^3.3.0
+  weton_core_base:
+    path: ../weton_core_base
+  base_entities:
+    path: ../base_entities
+  cached_network_image: ^3.3.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
